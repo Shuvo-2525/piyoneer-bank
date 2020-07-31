@@ -1,0 +1,57 @@
+#login-area {
+    margin-top: 50px;
+    padding: 100px;
+   
+}
+
+.login-form {
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    width: 900px;
+    margin: auto;
+}
+
+.diposit {
+    background-color: rgb(107, 90, 204);
+}
+
+.withdraw {
+    background-color: rgb(255, 155, 116);
+}
+
+.balance {
+    background-color: rgb(255, 160, 0);
+}
+
+.status {
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.three-box {
+    width: 1150px;
+    margin-top: 70px;
+    color: white;
+}
+
+.enter-amount {
+    width: 1100px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.input-area {
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: -4px 11px 20px 1px grey;
+
+
+}
+
+#logOut {
+    margin-top: 50px;
+}
+#second-page {
+    display: none;
+}
